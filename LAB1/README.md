@@ -1,29 +1,9 @@
-# test
+## Суханюк Іван Сергійович | КВ-22мп | Розробка клієнтської частини Web-додатка 
 
-This template should help get you started developing with Vue 3 in Vite.
+Мета: навчитись користуватись засобами фреймворка Javascript/VueJS, платформи NodeJS, а також бібліотеки Twitter Bootstrap (або Material UI) щодо побудови Web-інтерфейсу користувача.
 
-## Recommended IDE Setup
+Загальне завдання: розробити клієнтську частину Web-додатку.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Інструменти розробки: VS Code, Javascript/VueJS, Twitter Bootstrap, Material UI, NodeJS, diagram.net
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Google Drive: https://docs.google.com/document/d/1pngaTbG2Bzz_w8ppqC-cEpJd8gvpx9WwvQG5PAdWBko/edit?usp=sharing
