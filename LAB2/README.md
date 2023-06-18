@@ -5,4 +5,4 @@
 
 Інструменти розробки: VS Code, Javascript/VueJS/Jest, cypress.io
 
-Google Drive:
+Google Drive: https://docs.google.com/document/d/1rnf8RGbj7uqJ_uP40KdrEvUj8HAJbWZhxeraHv6Z4kM/edit?usp=sharing
